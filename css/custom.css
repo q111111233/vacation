@@ -1,3 +1,13 @@
 .carousel img{
   margin: auto;
 }
+
+.col-md-4 {
+  border: solid black 1px;
+  height: 400px;
+}
+
+.col-md-6 {
+  border: solid black 1px;
+  height: 400px;
+}
